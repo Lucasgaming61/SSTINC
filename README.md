@@ -1,2 +1,2 @@
 # SSTINC
-Where all my SwiftUI and Java files are stored. (SST Inc teaches SwiftUI and Java, DUH!)
+Where all my SwiftUI and React files are stored. (SST Inc teaches SwiftUI and React)
